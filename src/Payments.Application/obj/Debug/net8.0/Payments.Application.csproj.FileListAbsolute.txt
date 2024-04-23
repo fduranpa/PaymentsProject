@@ -1,0 +1,15 @@
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Application\bin\Debug\net8.0\Payments.Application.deps.json
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Application\bin\Debug\net8.0\Payments.Application.dll
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Application\bin\Debug\net8.0\Payments.Application.pdb
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Application\bin\Debug\net8.0\Payments.Domain.dll
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Application\bin\Debug\net8.0\Payments.Domain.pdb
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Application\obj\Debug\net8.0\Payments.Application.csproj.AssemblyReference.cache
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Application\obj\Debug\net8.0\Payments.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Application\obj\Debug\net8.0\Payments.Application.AssemblyInfoInputs.cache
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Application\obj\Debug\net8.0\Payments.Application.AssemblyInfo.cs
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Application\obj\Debug\net8.0\Payments.Application.csproj.CoreCompileInputs.cache
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Application\obj\Debug\net8.0\Payments.Application.csproj.CopyComplete
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Application\obj\Debug\net8.0\Payments.Application.dll
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Application\obj\Debug\net8.0\refint\Payments.Application.dll
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Application\obj\Debug\net8.0\Payments.Application.pdb
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Application\obj\Debug\net8.0\ref\Payments.Application.dll

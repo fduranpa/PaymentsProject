@@ -1,0 +1,17 @@
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Infrastructure.Services\bin\Debug\net8.0\Payments.Infrastructure.Services.deps.json
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Infrastructure.Services\bin\Debug\net8.0\Payments.Infrastructure.Services.dll
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Infrastructure.Services\bin\Debug\net8.0\Payments.Infrastructure.Services.pdb
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Infrastructure.Services\bin\Debug\net8.0\Payments.Application.dll
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Infrastructure.Services\bin\Debug\net8.0\Payments.Domain.dll
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Infrastructure.Services\bin\Debug\net8.0\Payments.Application.pdb
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Infrastructure.Services\bin\Debug\net8.0\Payments.Domain.pdb
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Infrastructure.Services\obj\Debug\net8.0\Payments.Infrastructure.Services.csproj.AssemblyReference.cache
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Infrastructure.Services\obj\Debug\net8.0\Payments.Infrastructure.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Infrastructure.Services\obj\Debug\net8.0\Payments.Infrastructure.Services.AssemblyInfoInputs.cache
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Infrastructure.Services\obj\Debug\net8.0\Payments.Infrastructure.Services.AssemblyInfo.cs
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Infrastructure.Services\obj\Debug\net8.0\Payments.Infrastructure.Services.csproj.CoreCompileInputs.cache
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Infrastructure.Services\obj\Debug\net8.0\Payments.Infrastructure.Services.csproj.CopyComplete
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Infrastructure.Services\obj\Debug\net8.0\Payments.Infrastructure.Services.dll
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Infrastructure.Services\obj\Debug\net8.0\refint\Payments.Infrastructure.Services.dll
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Infrastructure.Services\obj\Debug\net8.0\Payments.Infrastructure.Services.pdb
+C:\Users\fduran\Documents\Geopagos\Payments\src\Payments.Infrastructure.Services\obj\Debug\net8.0\ref\Payments.Infrastructure.Services.dll
